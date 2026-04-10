@@ -9,7 +9,7 @@ int main()
 
     m68k processor;
 
-    processor.step();
+    step_processor();
 
     return 0;
 }
